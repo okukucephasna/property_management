@@ -1,0 +1,2 @@
+# property_management
+ Project Title: "Property Marketplace: Buy, Sell, and Rent Real Estate"  Description: Our Property Marketplace project is a user-friendly web application designed to empower users in the real estate market. Whether you're looking to buy, sell, or rent a property, our platform provides a seamless and convenient solution to connect property owners and potential buyers or renters.
